@@ -78,7 +78,7 @@ To use your cognitive services resource, client applications need its  endpoint 
 
 1. In the Azure portal, on the **Keys and Endpoint** page for your cognitive service resource, copy the **Key1** for your resource and paste it in the code below, replacing **YOUR_COG_KEY**.
 2. Copy the **endpoint** for your resource and and paste it in the code below, replacing **YOUR_COG_ENDPOINT**.
-3. Run the code in the cell below by clicking its green <span style="color:green">&#9655</span> button.
+3. Run the code in the cell below by clicking its green <span style="color:green">&#x25b7</span> button.
 
 ```
 cog_key = 'YOUR_COG_KEY'
